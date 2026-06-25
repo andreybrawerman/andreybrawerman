@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrey+Paviani+%F0%9F%91%8B;Front-end+Dev+%40+COBE+Tecnologia;Information+Systems+%40+PUCPR" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrey+Brawerman+%F0%9F%91%8B;Front-end+Dev+%40+COBE+Tecnologia;Information+Systems+%40+PUCPR" alt="Typing SVG" />
   </h1>
   <p>
     <a href="https://www.linkedin.com/in/apbrawerman">
@@ -82,8 +82,8 @@ const me = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=apbrawerman&show_icons=true&theme=github_dark&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbrawerman&layout=compact&theme=github_dark&hide_border=true&title_color=8B5CF6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=andreybrawerman&show_icons=true&theme=github_dark&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreybrawerman&layout=compact&theme=github_dark&hide_border=true&title_color=8B5CF6" />
 </div>
 
 ---
