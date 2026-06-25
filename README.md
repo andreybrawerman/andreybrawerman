@@ -12,6 +12,10 @@
     </a>
     <img src="https://img.shields.io/badge/TOEFL%20ITP-620-8B5CF6?style=flat-square" />
   </p>
+  <p>
+    Information Systems student at PUCPR and Front-end Development Intern at COBE Tecnologia. <br>
+    Passionate about building web and mobile applications using React, TypeScript, and modern development practices.
+  </p>
 </div>
 
 ---
@@ -23,7 +27,7 @@ const me = {
   degree  : "Information Systems — PUCPR (2025 →)",
   location: "Curitiba, PR 🇧🇷",
   english : "Advanced · TOEFL ITP 620",
-  interests: ["full-stack", "AI", "mobile" "data", "cybersecurity"],
+  interests: ["full-stack", "AI", "mobile", "data", "cybersecurity"],
 }
 ```
 
@@ -51,18 +55,18 @@ const me = {
 
 **Front-end Development Intern** · COBE Tecnologia Ltda. · *Sep 2025 → present*
 
-- Building interfaces with **React**, **TypeScript**, **Tailwind CSS** and **Next.js**
-- Writing and maintaining product & system documentation
-- Testing and validating web and mobile applications
+- Developed and maintained **React**, **TypeScript**, **Tailwind CSS** & **Next.js** interfaces
+- Contributed to web and mobile application testing
+- Produced technical documentation for internal systems
 
 ---
 
 ## 🚀 Featured Projects
 
 - **[MeuBar](https://github.com/andreybrawerman/meuBar)** <br>
-  Mobile application built with **React Native** and **Supabase**. Includes backend integration, dynamic logic, and PDF export functionality.
+  Mobile application with a searchable catalog of 1700+ drink recipes, PDF export, and ingredient-based filtering.
 - **[RotaBrasil](https://github.com/andreybrawerman/rotaBrasil)** <br>
-  Modern web interface highlighting Brazilian destinations like Fernando de Noronha, Ilha do Mel, and Buraco do Padre. Built for high performance using **Vite**, **TypeScript**, and **Tailwind CSS**.
+  Modern web interface highlighting Brazilian destinations like Fernando de Noronha, Cataratas do Iguaçu, and Cristo Redentor. Built for high performance using **Vite**, **TypeScript**, and **Tailwind CSS**.
 - **[TemAí?](https://github.com/andreybrawerman/TemAi)** <br>
   A smart convenience mini-market system tailored for residential condominiums, designed to streamline local purchases for residents. Built with **HTML**, **CSS**, **JavaScript**, and **Python**.
 
