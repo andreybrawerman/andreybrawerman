@@ -64,7 +64,7 @@ const me = {
 ## 🚀 Featured Projects
 
 - **[MeuBar](https://github.com/andreybrawerman/meuBar)** <br>
-  Mobile application with a searchable catalog of 1700+ drink recipes, PDF export, and ingredient-based filtering.
+  Mobile application with a searchable catalog of 1700+ drink recipes, PDF export, and ingredient-based filtering. Developed with **React Native** and **Supabase**.
 - **[RotaBrasil](https://github.com/andreybrawerman/rotaBrasil)** <br>
   Modern web interface highlighting Brazilian destinations like Fernando de Noronha, Cataratas do Iguaçu, and Cristo Redentor. Built for high performance using **Vite**, **TypeScript**, and **Tailwind CSS**.
 - **[TemAí?](https://github.com/andreybrawerman/TemAi)** <br>
