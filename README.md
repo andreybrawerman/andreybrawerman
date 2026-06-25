@@ -1,16 +1,93 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrey+Paviani+%F0%9F%91%8B;Front-end+Dev+%40+COBE+Tecnologia;Information+Systems+%40+PUCPR" alt="Typing SVG" />
+  </h1>
+  <p>
+    <a href="https://www.linkedin.com/in/apbrawerman">
+      <img src="https://img.shields.io/badge/LinkedIn-apbrawerman-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:apbrawerman@gmail.com">
+      <img src="https://img.shields.io/badge/Email-apbrawerman%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/TOEFL%20ITP-620-8B5CF6?style=flat-square" />
+  </p>
+</div>
 
-<!--
-**andreybrawerman/andreybrawerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```ts
+const me = {
+  name    : "Andrey Paviani Brawerman",
+  role    : "Front-end Dev Intern @ COBE Tecnologia Ltda.",
+  degree  : "Information Systems — PUCPR (2025 →)",
+  location: "Curitiba, PR 🇧🇷",
+  english : "Advanced · TOEFL ITP 620",
+  interests: ["web dev", "AI", "data", "open source"],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+---
+
+## 💼 Experience
+
+**Front-end Development Intern** · COBE Tecnologia Ltda. · *Sep 2025 → present*
+
+- Building interfaces with **React**, **TypeScript**, **Tailwind CSS** and **Next.js**
+- Writing and maintaining product & system documentation
+- Testing and validating web and mobile applications
+
+---
+
+## 🎓 Key Coursework @ PUCPR
+
+| Course | Area |
+|---|---|
+| Algorithmic Thinking — Python | Programming |
+| Object-Oriented Programming — Java | Programming |
+| Web Development — Frontend | Web |
+| Web Development — React Framework | Web |
+| Database — SQL | Data |
+| Information Security | Security |
+| Cyber-Physical Fundamentals | IoT / Systems |
+
+---
+
+## 📜 Recent Certifications
+
+- **React + TypeScript — Zero to Advanced** · Udemy · 2026
+- **Git & GitHub in 1 Hour** · Udemy · 2025
+- **Power BI for Everyone** · Udemy · 2025
+- **Linux with Ubuntu** · Udemy · 2025
+- **AI for Business — Minicamp** · XP Educação · 2025
+- **English as a Foreign Language** · Talken / Stetson University · 2023
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=apbrawerman&show_icons=true&theme=github_dark&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbrawerman&layout=compact&theme=github_dark&hide_border=true&title_color=8B5CF6" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Made with 💜 in Curitiba, BR</sub>
+</div>
