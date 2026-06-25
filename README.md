@@ -23,7 +23,7 @@ const me = {
   degree  : "Information Systems — PUCPR (2025 →)",
   location: "Curitiba, PR 🇧🇷",
   english : "Advanced · TOEFL ITP 620",
-  interests: ["web dev", "AI", "data", "open source"],
+  interests: ["full-stack", "AI", "mobile" "data", "cybersecurity"],
 }
 ```
 
@@ -33,13 +33,16 @@ const me = {
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
@@ -51,6 +54,17 @@ const me = {
 - Building interfaces with **React**, **TypeScript**, **Tailwind CSS** and **Next.js**
 - Writing and maintaining product & system documentation
 - Testing and validating web and mobile applications
+
+---
+
+## 🚀 Featured Projects
+
+- **[MeuBar](https://github.com/andreybrawerman/meuBar)** <br>
+  Mobile application built with **React Native** and **Supabase**. Includes backend integration, dynamic logic, and PDF export functionality.
+- **[RotaBrasil](https://github.com/andreybrawerman/rotaBrasil)** <br>
+  Modern web interface highlighting Brazilian destinations like Fernando de Noronha, Ilha do Mel, and Buraco do Padre. Built for high performance using **Vite**, **TypeScript**, and **Tailwind CSS**.
+- **[TemAí?](https://github.com/andreybrawerman/TemAi)** <br>
+  A smart convenience mini-market system tailored for residential condominiums, designed to streamline local purchases for residents. Built with **HTML**, **CSS**, **JavaScript**, and **Python**.
 
 ---
 
